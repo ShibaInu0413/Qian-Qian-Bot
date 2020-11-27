@@ -1,0 +1,6 @@
+discord.py
+Flask
+dnspython
+pytz
+pymongo
+Pillow
